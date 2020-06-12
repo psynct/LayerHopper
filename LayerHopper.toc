@@ -1,0 +1,10 @@
+﻿## Interface: 11304
+## Title: Layer Hopper
+## Author: psynct
+## Version: 1.5.6
+## Notes: Allows easy and automatic layer hopping within guild
+## SavedVariablesPerCharacter: LayerHopperOptions
+
+embeds.xml
+Locale\Locales.xml
+LayerHopper.lua
