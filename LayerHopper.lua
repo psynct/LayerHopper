@@ -374,6 +374,7 @@ local blacklistedNpcIds = {
 	"14878", -- Jubling
 	"15429", -- Disgusting Oozeling
 	"15706", -- Winter Reindeer
+	"1860",  -- Voidwalker
 }
 
 function LayerHopper:IsBlacklistedNpcId(npc_id)
