@@ -85,7 +85,7 @@ LayerHopper.currentLayerId = -1
 LayerHopper.foundOldVersion = false
 LayerHopper.SendCurrentMinMaxTimer = nil
 LayerHopper.paused = false
-LayerHopper.layerIdRange = 100 -- this is a guess based on anecdotal data of max layer id spread for a single layer
+LayerHopper.layerIdRange = 70 -- this is a guess based on anecdotal data of max layer id spread for a single layer
 
 function LayerHopper:OnInitialize()
 	self.LayerHopperLauncher = LibStub("LibDataBroker-1.1"):NewDataObject("LayerHopper", {
