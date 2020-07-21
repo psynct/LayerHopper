@@ -1,7 +1,7 @@
 LayerHopper = LibStub("AceAddon-3.0"):NewAddon("LayerHopper", "AceConsole-3.0", "AceEvent-3.0", "AceComm-3.0", "AceTimer-3.0")
 LayerHopper.Dialog = LibStub("AceConfigDialog-3.0")
 LayerHopper:RegisterChatCommand("lh", "ChatCommand")
-LayerHopper.VERSION = 156
+LayerHopper.VERSION = 157
 
 local L = LibStub("AceLocale-3.0"):GetLocale("LayerHopper")
 
